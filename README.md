@@ -17,3 +17,33 @@ Dante was designed by [Sue Atkins](https://en.wikipedia.org/wiki/Beryl_Atkins), 
 [cc-by]: https://creativecommons.org/licenses/by/4.0/
 [cc-by-image]: https://i.creativecommons.org/l/by/4.0/88x31.png
 [cc-by-shield]: https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg
+
+Publications
+------------
+
+```
+@inproceedings{convery2010dante,
+  title={The DANTE Database (Database of ANalysed Texts of English)},
+  author={Convery, Cathal and Mian{\'a}in, P{\'a}draig {\'O} and Raghallaigh, Muiris {\'O} and Atkins, Sue and Kilgarriff, Adam and Rundell, Michael},
+  booktitle={Proceedings of the XIV EURALEX International Conference},
+  pages={293--5},
+  year={2010}
+}
+
+@inproceedings{atkins2010database,
+  title={Database of ANalysed Texts of English (DANTE): the NEID database project},
+  author={Atkins, BT Sue and Kilgarriff, Adam and Rundell, Michael},
+  booktitle={Proceedings of the XIV Euralex International Congress},
+  pages={549--556},
+  year={2010}
+}
+
+@article{rundell2011dante,
+  title={The DANTE database: A user guide},
+  author={Rundell, Michael and Atkins, Sue},
+  journal={Proceedings of eLex},
+  pages={233--246},
+  year={2011},
+  publisher={Citeseer}
+}
+```

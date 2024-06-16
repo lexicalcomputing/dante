@@ -1,0 +1,53 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: DANTE - A lexical database for English
+message: 'If you use DANTE software, please cite it as below.'
+type: dataset
+authors:
+  - name: Foras na Gaeilge
+    address: 63-66 Amiens Street
+    city: Dublin
+    country: IR
+    post-code: D01 H275
+    website: 'https://forasnagaeilge.ie'
+identifiers:
+  - type: url
+    value: 'https://dantedictionary.com'
+    description: Search DANTE online through Lexonomy
+repository-code: 'https://github.com/lexicalcomputing/dante'
+url: 'https://dantedictionary.com'
+abstract: >-
+  Dante is a lexical database for English. It provides a
+  fine-grained and comprehensive record of the behaviour of
+  over 42,000 headwords and 23,000 multiword expressions,
+  and includes over 27,000 idioms and phrases.
+keywords:
+  - lexicography
+  - dictionary
+  - English
+  - Lexonomy
+  - Sketch Engine
+license: CC-BY-4.0
+preferred-citation:
+  authors:
+    - family-names: Convery
+      given-names: Cathal
+    - family-names: Mianáin
+      given-names: Pádraig Ó
+    - family-names: Raghallaigh
+      given-names: Muiris Ó
+    - family-names: Atkins
+      given-names: Sue
+    - family-names: Kilgarriff
+      given-names: Adam
+    - family-names: Rundell
+      given-names: Michael
+  title: The DANTE Database (Database of ANalysed Texts of English)
+  type: conference-paper
+  pages: 293--5
+  year: '2010'
+  collection-title: Proceedings of the XIV EURALEX International Conference
+  conference:
+    name: EURALEX 2010
